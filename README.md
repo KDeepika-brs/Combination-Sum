@@ -4,4 +4,4 @@
 
 ##### If the sum exceeds the target or the candidates are exhausted, the function backtracks to explore other possibilities. Ultimately, it returns an array containing all valid combinations of numbers that satisfy the sum condition.
 
-#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Hamming-algo/).
+#### Dear Students, Check out the live app [here](https://kdeepika-brs.github.io/Combination-Sum/).
